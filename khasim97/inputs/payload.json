@@ -1,0 +1,14 @@
+[
+    [
+        {
+            "option1": [
+                "data1"
+            ],
+            "option2": [
+                "data2"
+            ],
+            "option3": "data3",
+            "option4": "data4"
+        }
+    ]
+]
